@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Bright network - Internship Experience UK. Professional Service & Consulting
+  image: /images/achievements/brightnetwork.png
+  summary: Worked on a task alongside EY on handling a workplace diversity issue for an organisation. Developed market research based on their core issues, proposed solutions, more specifically a prototype of a game application in staff training
+
+- title: 2nd Prize in The 11th National Advertising Art Design Competition for College Students (Sichuan Area)
+  image: /images/achievements/cehua.png
+  summary: Wrote the marketing plan for a domestic cosmetic brand, designed graphics and prepared media budget

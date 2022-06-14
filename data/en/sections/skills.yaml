@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/python.png"
+  summary: "Using python for data analytics, machine learning, deep learning, visualisation and basic development. Familiar with pandas, numpy, matplotlib, scikit-learn,
+  beautiful soup, plotly, tensorflow, pytorch, and other common data science libraries."
+  url: "https://www.python.org/"
+
+- name: R
+  logo: "/images/r.png"
+  summary: "Using R for data analytics, machine learning, visualisation and basic development. Familiar with shiny, caret, and other common data science libraries."
+  url: "https://www.r-project.org/"
+
+- name: Database management
+  logo: "/images/sql.png"
+  summary: "Having experience with MySQL, PostgresSQL and MongoDB."
+  url: "https://www.mysql.com/"
+
+- name: Marketing analysis
+  logo: "/images/googleanalytics.png"
+  summary: "Gaining deep insights in marketing tech. Familiar with google analytics."
+  url: "https://analytics.google.com/analytics/web/provision/#/provision"

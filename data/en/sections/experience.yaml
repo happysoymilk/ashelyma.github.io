@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Daletech Electronics Ltd
+    url: "https://daletech.co.uk/"
+    location: Leeds, UK
+    # company overview
+  positions:
+  - designation: Project Intern
+    start: Jun 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Sep 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Consulting project cooperated with LUBS
+    - Wrote an in-depth industry report for the Green IoT electronics components industry
+    - Designed interview guides, conducted in-depth interviews with seven industry experts and completed qualitative analysis
+    - Designed a questionnaire to conduct a qualitative survey on consumer attitudes towards green markets
+    - Proposed market entry and marketing recommendations for Daletech Electronics Ltd
+    - Developed slides to report on the results of the consultancy project
+
+- company:
+    name: China News Service, Zhejiang Branch
+    url: "https://www.zj.chinanews.com.cn/"
+    location: Hangzhou, China
+  positions:
+  - designation: Planner Intern
+    start: Aug 2019
+    end: Oct 2019
+    responsibilities:
+    - Wrote the main body of a local government urbanisation project. Organised materials, connected and invited external expertise in universities, developed meeting topics for the local urbanisation forum based on client needs, arranged meeting timeline
+    - Developed meeting topics and participated in multiple brand planning discussions
+    - Liaised with external companies to understand their needs, working with them to plan and organise projects

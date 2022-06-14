@@ -1,0 +1,146 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: MSc Business Analytics
+  icon: fa-microscope
+  timeframe: 2021-2022
+  institution:
+    name: Bayes Business School (formerly Cass)
+    url: "https://www.bayes.city.ac.uk/study/mba/full-time?gclid=CjwKCAjw46CVBhB1EiwAgy6M4r-v_pyKA7NJQsLOwuruJWMS-LTdUSFnfxlTaAntlH2HTYuYWg7GoxoCN9IQAvD_BwE"
+  grade: #(optional)
+    scale: GPA
+    achieved: Distinction (predicted)
+    outOf: Distinction
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Data Visualisation
+      achieved: 75
+      outOf: 100
+    - name: Machine Learning
+      achieved: 72.5
+      outOf: 100
+    - name: Revenue Management and Pricing
+      achieved: 72.4
+      outOf: 100
+    - name: Applied Deep Learning
+      achieved: 71
+      outOf: 100
+  extracurricularActivities: #(optional)
+  - Applied Research Project (ongoing). Develop a chatbot prototype for MND patients via Facebook ParlAi, collaborated with Rolls-Royce
+  - NFT Market Analysis Project – Ongoing. Responsible for writing a NFT market research report. Developed Opensea scraping script and built data pipeline within python and MySQL
+
+- name: MA Corporate Communications, Marketing and Public Relations
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: University of Leeds
+    url: "https://www.leeds.ac.uk/"
+  grade: #(optional)
+    scale: GPA
+    achieved: Distinction
+    outOf: Distinction
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Brand Management and Corporate Identity
+      achieved: 76
+      outOf: 100
+    - name: Corporate Communications Strategy
+      achieved: 75
+      outOf: 100
+    - name: Public Relations in Practice
+      achieved: 71
+      outOf: 100
+    - name: The Global Marketing and Communications Professional
+      achieved: 71
+      outOf: 100
+  extracurricularActivities: #(optional)
+  - Leeds University Business School Partnership Award 2021. Designed and led SPSS training sessions for course mates with two other students.
+  - Head of Hospitality and Guest Relations of Entrepreneur Mindset Expert Panel. Responsible for communicating with 5 guests and organised the panel with over 50 participants
+  - Leeds consulting society.
+- name: BEng Materials Processing and Controlling Engineering
+  icon: fa-university
+  timeframe: 2016-2020
+  institution:
+    name: Southwest Jiaotong University
+    url: "https://en.swjtu.edu.cn/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 84.88
+    outOf: 100
+  publications: #(optional)
+  - title: Effects of precipitate on the slip activity and plastic heterogeneity of Mg-11Y-5Gd-2Zn-0.5Zr (wt. %) during room temperature compression.
+    url: "https://www.sciencedirect.com/science/article/pii/S0921509321000071"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Basics of Computer Programming
+      achieved: 92
+      outOf: 100
+    - name: Microcomputer Theory and Application
+      achieved: 90
+      outOf: 100
+    - name: Higher Mathematics
+      achieved: 80
+      outOf: 100
+    - name: Linear Algebra
+      achieved: 75
+      outOf: 100
+    - name: Probability Theory and Mathematical Statistics
+      achieved: 73
+      outOf: 100
+    - name: Basics of Material Forming Control
+      achieved: 90
+      outOf: 100
+    - name: Engineering Chemistry A
+      achieved: 84
+      outOf: 100
+    - name: Experiment of Physical Chemistry
+      achieved: 91
+      outOf: 100
+    - name: Material Science Basis Experiment Method I
+      achieved: 89.4
+      outOf: 100
+    - name: Material Science Basis AI
+      achieved: 86
+      outOf: 100
+    - name: Material Science Basis AII
+      achieved: 88
+      outOf: 100
+    - name: Material Mechanics
+      achieved: 85
+      outOf: 100
+    - name: Welding Metallurgy
+      achieved: 90
+      outOf: 100
+    - name: Frock Design of Material Forming
+      achieved: 93
+      outOf: 100
+    - name: Experiment of Material Molding and Control
+      achieved: 97
+      outOf: 100
+    - name: Nondestructive Testing
+      achieved: 94
+      outOf: 100
+    - name: Graduation Design (Thesis)
+      achieved: 88
+      outOf: 100
+
+  extracurricularActivities: #(optional)
+  - 2nd Class Academic Scholarship               
+  - Vice-president of Art and Editorial Society
+  - Excellent Student Leader
+  - Project Head of a National College Students Research Training Program

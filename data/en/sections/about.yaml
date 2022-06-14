@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data scientist focus on business
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I’m an aspiring data scientist with a special interest in the business field. Tech fascinates me and I love connecting with people who share my passion for data visualisation, data analytics, and machine learning. I love digging into business problems and solving them with modern technology. 
+I am self-driven and hard-working. I enjoy a multicultural work environment and sharing new knowledge with others. Also, I am a quick learner and adapter, which can be proven that I changed my major 3 times during 6 years.              '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/happysoymilk"
+- name: LinkedIn
+  icon: "fab fa-linkedin-in"
+  url: "https://www.linkedin.com/in/shijun-ashely-ma-072107192/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Data Analytics
+  percentage: 90
+  color: pink
+- name: Programing (Python, R, SQL)
+  percentage: 95
+  color: sky
+- name: Marketing
+  percentage: 95
+  color: orange
+- name: Project Management
+  percentage: 80
+  color: green
