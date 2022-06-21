@@ -50,7 +50,7 @@ projects:
 - name: Shiny app for understanding decision tree
   logo: /images/shiny.png
   role: Contributor
-  timeline: "Mar 2021"
+  timeline: "Mar 2022"
   repo: https://github.com/happysoymilk/shiny_dt_viz
   summary: The app of decision tree process using shiny.
   tags: ["academic","R","shiny","Machine-learning"]
@@ -58,7 +58,7 @@ projects:
 - name: Pricing strategy for Dartford Crossing
   logo: /images/r.png
   role: Contributor
-  timeline: "Mar 2021"
+  timeline: "Mar 2022"
   repo: https://github.com/happysoymilk/pricing_strategy_for_DartfordCrossing
   summary: The pricing strategy and simulation results for dartford crossing.
   tags: ["academic","R", "Prcing-Strategy"]
@@ -66,7 +66,7 @@ projects:
 - name: Deep learning - wind turbine analysis
   logo: /images/tf.png
   role: Developer
-  timeline: "Apr 2021"
-  repo: https://github.com/happysoymilk/pricing_strategy_for_DartfordCrossing
+  timeline: "Apr 2022"
+  repo: https://github.com/happysoymilk/deeplearning_windturbine_analysis
   summary: Using CNN and RNN to predict wind turbine problems.
   tags: ["academic","python", "Deep-learning","tensorflow"]
